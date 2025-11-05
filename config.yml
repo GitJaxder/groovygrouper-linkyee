@@ -46,14 +46,14 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-TikTok"
+      icon: "fa-brands fa-tikTok"
       text: "TikTok"
       url: "https://www.tiktok.com/@groovygrouper"
       alt: "TikTok"
       title: "TikTok"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-Twitch"
+      icon: "fa-brands fa-twitch"
       text: "Twitch"
       url: "https://www.twitch.tv/groovygrouper"
       alt: "Twitch"
