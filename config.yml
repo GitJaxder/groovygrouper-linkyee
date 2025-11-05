@@ -46,6 +46,20 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
+      icon: "fa-brands fa-TikTok"
+      text: "TikTok"
+      url: "https://www.tiktok.com/@groovygrouper"
+      alt: "TikTok"
+      title: "TikTok"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-Twitch"
+      text: "Twitch"
+      url: "https://www.twitch.tv/groovygrouper"
+      alt: "Twitch"
+      title: "Twitch"
+      target: "_blank"
+  - link:
       icon: "fa-brands fa-twitter"
       text: "X <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
       url: "https://x.com/groovygrouper"
@@ -53,26 +67,14 @@ links:
       title: "X / Twitter"
       target: "_blank"
   - link:
-      icon: "fa-solid fa-youtube"
+      icon: "fa-brands fa-youtube"
       text: "YouTube"
       url: "https://www.youtube.com/groovygrouper"
       alt: "YouTube"
-      title: "YouTube - Title"
+      title: "YouTube"
       target: "_blank"
-  - link:
-      icon: "fa-solid fa-TikTok"
-      text: "TikTok"
-      url: "https://www.tiktok.com/@groovygrouper"
-      alt: "TikTok"
-      title: "TikTok - Title"
-      target: "_blank"
-  - link:
-      icon: "fa-solid fa-Twitch"
-      text: "Twitch"
-      url: "https://www.twitch.tv/groovygrouper"
-      alt: "Twitch"
-      title: "Twitch - Title"
-      target: "_blank"
+
+
 
 #   - link:
 #       icon: "fa-brands fa-swift"
@@ -112,6 +114,12 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
+      icon: "fa-brands fa-tiktok"
+      url: "https://www.tiktok.com/@groovygrouper"
+      title: "TikTok"
+      alt: "GroovyGrouper's TikTok"
+      target: "_blank"
+  - social:
       icon: "fa-brands fa-twitch"
       url: "https://www.twitch.tv/groovygrouper"
       title: "Twitch"
@@ -122,12 +130,6 @@ socials:
       url: "https://x.com/groovygrouperi"
       title: "Twitter"
       alt: "GroovyGrouper's Twitter"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-tiktok"
-      url: "https://www.tiktok.com/@groovygrouper"
-      title: "TikTok"
-      alt: "GroovyGrouper's TikTok"
       target: "_blank"
   - social:
       icon: "fa-brands fa-youtube"
